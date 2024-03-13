@@ -1,0 +1,9 @@
+name = "my_hello_world"
+description = "Shiny new project"
+version = "0.1.0-dev"
+
+authors = ["Mingyu Choo"]
+maintainers = ["Mingyu Choo <mingyuchoo@gmail.com>"]
+maintainers-logins = ["mingyuchoo"]
+
+executables = ["my_hello_world"]
