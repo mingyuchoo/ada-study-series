@@ -14,6 +14,15 @@ Visit the link below to install Alire
 $ alr toolchain --select
 ```
 
+## How to create a project
+
+```bash
+$ alr init --bin <project_name>
+$ cd <project_name>
+$ alr build
+$ alr run
+```
+
 ## References
 
 - <https://ada-lang.io/>
